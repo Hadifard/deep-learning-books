@@ -14,7 +14,7 @@ For each book I cover:
 
 ## 📖 Book List
 
-| Week | Book | Authors | Topic | Cover |
+| Week | Book | Authors | Topic | Front Cover |
 |:---:|---|---|---|------|
 | 1 | [Hands-On Large Language Models](books/01-hands-on-large-language-models/README.md) | Jay Alammar, Maarten Grootendorst | Large Language Models (LLMs) |<img src="https://raw.githubusercontent.com/Hadifard/deep-learning-books/main/books/01-hands-on-large-language-models/Cover_Hands_On_Large_Language_Models.jfif" alt="Hands-On Large Language Models Cover" width="220">|
 
