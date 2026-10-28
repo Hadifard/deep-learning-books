@@ -1,4 +1,9 @@
 # Hands-On Large Language Models
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hadifard/deep-learning-books/main/books/01-hands-on-large-language-models/Cover_Hands_On_Large_Language_Models.jfif" alt="Hands-On Large Language Models Cover" width="220">
+</p>
+
 ### Language Understanding and Generation
 | | |
 |---|---|
