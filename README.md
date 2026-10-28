@@ -10,7 +10,7 @@ For each book I cover:
 - Links to official resources and companion code
 
 > ⚠️ **Copyright note:** PDFs of copyrighted books are **not** uploaded to this repository.
-> Only reviews, chapter summaries, and links to official sources (publisher / authors' repo) are included.
+> Only a some sections, reviews, chapters, and links to official sources (publisher / authors' repo) are included.
 
 ## 📖 Book List
 
@@ -18,7 +18,7 @@ For each book I cover:
 |:---:|---|---|---|
 | 1 | [Hands-On Large Language Models](books/01-hands-on-large-language-models/README.md) | Jay Alammar, Maarten Grootendorst | Large Language Models (LLMs) |
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 deep-learning-books/
@@ -37,6 +37,6 @@ deep-learning-books/
 3. Add a new row to the table above.
 4. Commit and push.
 
-## 📬 Contributing
+## Contributing
 
 Book suggestions and corrections to the summaries are welcome via Issues and Pull Requests.
