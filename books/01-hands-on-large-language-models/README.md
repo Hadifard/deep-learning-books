@@ -15,7 +15,7 @@
 | **Book page** | [Hands-On Large Language Models_pdf](https://github.com/Hadifard/deep-learning-books/blob/main/books/01-hands-on-large-language-models/Hands-On-Large-Language-Models_535.pdf) |
 
 > 🔗 To buy or read the book legally, visit the publisher's page (O'Reilly).
-> The book file itself is not included in this repository.
+> The whole of book file itself is not included in this repository.
 
 ---
 
