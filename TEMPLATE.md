@@ -13,17 +13,17 @@
 
 ---
 
-## 🤔 What Is This Book?
+## What Is This Book?
 
 ## 👥 Who Is It For?
 
 **Prerequisites:**
 
-## 🎯 What Will You Learn?
+## What Will You Learn?
 
 -
 
-## 🧱 Book Structure
+## Book Structure
 
 **Chapter 1 — **
 
@@ -31,6 +31,6 @@
 
 ## 💻 Hardware and Software
 
-## ✍️ My Take
+## My Take
 
 ## 🔗 Resources
