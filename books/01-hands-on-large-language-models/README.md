@@ -15,7 +15,7 @@
 
 ---
 
-## 🤔 What Is This Book?
+## What Is This Book?
 
 A **visual, hands-on guide** to understanding and using large language models (LLMs).
 Its philosophy is *intuition first*: you grasp each concept through illustrations and
@@ -38,7 +38,7 @@ One distinction runs through the whole book:
 No prior knowledge of PyTorch, TensorFlow, or generative modeling is needed. The book focuses on
 intuition rather than mathematical derivations.
 
-## 🎯 What Will You Learn?
+## What Will You Learn?
 
 - The history of Language AI: from bag-of-words and word2vec to attention and the Transformer
 - Tokenization and embeddings
@@ -52,7 +52,7 @@ intuition rather than mathematical derivations.
 - Creating and fine-tuning embedding models
 - Fine-tuning generative models with LoRA/QLoRA and preference tuning with DPO
 
-## 🧱 Book Structure
+## Book Structure
 
 The book has three parts, and each chapter can be read independently.
 
@@ -106,7 +106,7 @@ The three stages of LLM training, supervised fine-tuning, PEFT (adapters, LoRA, 
 
 ---
 
-## 💻 Hardware and Software
+## Hardware and Software
 
 - Easiest option: **Google Colab** (free T4 GPU)
 - Running locally: an NVIDIA GPU with at least 16 GB of VRAM
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 
 Some examples require API keys (OpenAI, Cohere, and Hugging Face for Llama 2).
 
-## ✍️ My Take
+## My Take
 
 > Fill this section in yourself: your personal experience, favorite chapters, strengths and weaknesses, and a suggested reading path.
 
