@@ -12,7 +12,7 @@
 | **Published** | September 2024 (First Edition) |
 | **ISBN** | 978-1-098-15096-9 |
 | **Code & notebooks** | https://github.com/HandsOnLLM/Hands-On-Large-Language-Models |
-| **Book page** | https://oreil.ly/hands_on_LLMs_1e |
+| **Book page** | [Hands-On Large Language Models_pdf](https://github.com/Hadifard/deep-learning-books/blob/main/books/01-hands-on-large-language-models/Hands-On-Large-Language-Models_535.pdf) |
 
 > 🔗 To buy or read the book legally, visit the publisher's page (O'Reilly).
 > The book file itself is not included in this repository.
