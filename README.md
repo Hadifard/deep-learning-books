@@ -14,8 +14,8 @@ For each book I cover:
 
 ## 📖 Book List
 
-| Week | Book | Authors | Topic |
-|:---:|---|---|---|
+| Week | Book | Authors | Topic | Cover |
+|:---:|---|---|---|---|
 | 1 | [Hands-On Large Language Models](books/01-hands-on-large-language-models/README.md) | Jay Alammar, Maarten Grootendorst | Large Language Models (LLMs) |
 
 ## Repository Structure
