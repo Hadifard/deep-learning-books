@@ -1,6 +1,6 @@
 # 📚 Deep Learning Books — Weekly Book Reviews
 
-Every week I review one well-regarded book on deep learning and AI.
+Every week, I review one well-regarded book on deep learning and AI.
 For each book I cover:
 
 - What the book is and who wrote it
