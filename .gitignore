@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+# Book files (copyrighted) must not be uploaded
+*.pdf
+*.epub
+*.mobi
